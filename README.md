@@ -1,35 +1,9 @@
-<img width="2510" height="877" alt="Fundflit" src="https://github.com/user-attachments/assets/2cedefa6-2d4e-4864-b9e2-2d799e2fa4d5" />
+<img width="1500" height="500" alt="LinkedIn Banner - Chris Awoke (1500 x 500 px)" src="https://github.com/user-attachments/assets/478c7eda-a3a8-48cb-9818-7ac7945cd9dd" />
 
-## Hi there 👋
-# Heading 1
-## Heading 2
-### Heading 3
-#### Heading 4
-##### Heading 5
-###### Heading 6
+# Wikrena Design Lab
 
-This is a paragraph
-- Point 1
-- Point 2
-- Point 3
-<hr />
+A home for ideas made tangible.
 
-1. Point 1
-2. Point 2
-3. Point 3
+This repository houses the interfaces, prototypes, and digital experiences we design at Wikrena, turning ideas into thoughtful, functional products that solve real problems.
 
-**wikrena/wikrena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-
+We design with purpose, build with intention, and keep improving.
